@@ -1,2 +1,2 @@
-# OB_img
+# Obsidian 图床
 Obsidian's Images
