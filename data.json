@@ -1,0 +1,109 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "_configName": "Default",
+      "_id": "4ceb7efe-3568-42fc-ad56-3c0f2389ec9f",
+      "_createdAt": 1718780714569,
+      "_updatedAt": 1718788961236,
+      "repo": "hzh609/Obsidian",
+      "branch": "main",
+      "token": "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",
+      "path": "image/",
+      "customUrl": ""
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      }
+    ]
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": true,
+    "autoStart": true,
+    "rename": false,
+    "privacyEnsure": true,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "sync": {
+      "type": "github",
+      "username": "hzh609",
+      "repo": "Obsidian",
+      "branch": "main",
+      "token": "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",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "4ceb7efe-3568-42fc-ad56-3c0f2389ec9f",
+          "_createdAt": 1718780714569,
+          "_updatedAt": 1718788961236,
+          "repo": "hzh609/Obsidian",
+          "branch": "main",
+          "token": "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",
+          "path": "image/",
+          "customUrl": ""
+        }
+      ],
+      "defaultId": "4ceb7efe-3568-42fc-ad56-3c0f2389ec9f"
+    }
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI"
+}
